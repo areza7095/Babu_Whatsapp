@@ -1,0 +1,13 @@
+{
+    "wait": "_Wait for our awesome process_",
+    "error": {
+        "Iv": "_sorry brother link that brother gave it wrong_",
+        "api": "_Sorry, our system is error, try a few more moments_"
+    },
+    "OnlyGrup": "_Only grup_",
+    "OnlyPM": "_Only private message_",
+    "GrupAdmin": "_Only Admin Grup_",
+    "BotAdmin": "_Bot must be an admin_",
+    "OnlyOwner": "_Only owner bot_",
+    "OnlyPrem": "_Only user premium_"
+}
